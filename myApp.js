@@ -1,4 +1,5 @@
-/**********************************************
+var mongoose= require('mongoose');
+mongoose.connect("mongodb://mr:1stnodemongo@ds253831.mlab.com:53831/mongofirstpro");/**********************************************
 * 3. FCC Mongo & Mongoose Challenges
 * ==================================
 ***********************************************/
